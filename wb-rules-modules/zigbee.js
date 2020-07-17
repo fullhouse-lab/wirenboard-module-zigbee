@@ -1,5 +1,5 @@
 var MODULE_NAME 		= "zigbee";
-var MODULE_VERSION  = "1.4.0";
+var MODULE_VERSION  = "1.4.2";
 
 // {"version":"1.14.0","commit":"9009de2","coordinator":{"type":"zStack12","meta":{"transportrev":2,"product":0,"majorrel":2,"minorrel":6,"maintrel":3,"revision":20190608}},"log_level":"info","permit_join":false}
 

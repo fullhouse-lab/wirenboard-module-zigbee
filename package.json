@@ -1,6 +1,6 @@
 {
   "name": "wirenboard-module-zigbee",
-  "version": "1.4.0",
+  "version": "1.4.2",
   "description": "ZigBee manager",
   "main": "./wb-rules-modules/zigbee.js",
   "keywords": [
