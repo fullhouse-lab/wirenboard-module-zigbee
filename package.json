@@ -1,0 +1,22 @@
+{
+  "name": "wirenboard-module-zigbee",
+  "version": "1.4.0",
+  "description": "ZigBee manager",
+  "main": "./wb-rules-modules/zigbee.js",
+  "keywords": [
+    "wirenboard",
+    "wb",
+    "module",
+    "zigbee",
+    "fullhouse"
+  ],
+  "author": "FullHouse <support@fullhouse-online.ru>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullhouse-lab/wirenboard-module-zigbee.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fullhouse-lab/wirenboard-module-zigbee/issues/"
+  },
+  "license": "ISC"
+}
